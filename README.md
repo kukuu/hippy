@@ -8,6 +8,6 @@
 
 **GitHub Code Repository**:  https://github.com/kukuu/microfrontends/tree/main/single-SPA-module-federation
 
-**Application** - https://github.com/kukuu/microfrontends/blob/main/microfrontends-ecommerce-app.png
+**Application snapshot** - https://github.com/kukuu/microfrontends/blob/main/microfrontends-ecommerce-app.png
 
 
