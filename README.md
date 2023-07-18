@@ -1,6 +1,6 @@
 # Life cycle software implementation with Microfrontends.
 
-**Project Presentation**
+**Project Presentation**:
 
 - Task Board and Solution Design Documents: https://github.com/users/kukuu/projects/3/views/1
 - PDF: https://github.com/kukuu/hippy/blob/main/Hippo-MC-PDF.pdf
@@ -12,7 +12,7 @@
 
 **GitHub Code Repository**:  https://github.com/kukuu/microfrontends/tree/main/single-SPA-module-federation
 
-**Application snapshot** - https://github.com/kukuu/microfrontends/blob/main/microfrontends-ecommerce-app.png
+**Application snapshot**: - https://github.com/kukuu/microfrontends/blob/main/microfrontends-ecommerce-app.png
 
 
 
