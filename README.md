@@ -1,5 +1,5 @@
 # Hippy
-Emerging Technologies Software Optimisation: An end-to-end life cycle implementation.
+Emerging Technologies Software Optimisation: An end-to-end life cycle implementation with Microfrontends.
 
 **Architectural Pattern**:  Microfrontends
 
