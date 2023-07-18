@@ -6,7 +6,7 @@
 <!-- - PDF: https://github.com/kukuu/hippy/blob/main/Hippo-MC-PDF.pdf-->
 <!-- - Powerpoint: https://github.com/kukuu/hippy/blob/main/Hippo-MC-PP.pptx-->
 
-**GitHub ReadMe**:  
+**ReadMe**:  
 - Microfrontends: https://github.com/kukuu/microfrontends/tree/main
 
 **Architecture**:
