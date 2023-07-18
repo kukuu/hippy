@@ -1,4 +1,4 @@
-# End-to-end software implementation life cycle with Microfrontends
+# End-to-end software implementation life cycle with Microfrontends.
 
 Emerging Technologies Software Optimisation: An end-to-end life cycle implementation with Microfrontends.
 
