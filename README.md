@@ -3,8 +3,7 @@
 **Project Presentation**:
 
 - Task Board and Solution Design Documents: https://github.com/users/kukuu/projects/3/views/1
-<!-- - PDF: https://github.com/kukuu/hippy/blob/main/Hippo-MC-PDF.pdf-->
-<!-- - Powerpoint: https://github.com/kukuu/hippy/blob/main/Hippo-MC-PP.pptx-->
+- PDF: [https://github.com/kukuu/hippy/blob/main/Hippo-MC-PDF.pdf](https://github.com/kukuu/hippy/blob/main/Hippo-MC-PP-A.pdf)
 
 **ReadMe**:  
 - Microfrontends: https://github.com/kukuu/microfrontends/tree/main
